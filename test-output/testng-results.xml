@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14190" started-at="2017-10-11T10:18:43Z" finished-at="2017-10-11T10:18:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14190" started-at="2017-10-11T10:18:43Z" finished-at="2017-10-11T10:18:57Z">
+      <class name="com.netease.demo.NewTest123">
+        <test-method status="PASS" signature="doTest()[pri:0, instance:com.netease.demo.NewTest123@343f4d3d]" name="doTest" duration-ms="14172" started-at="2017-10-11T18:18:43Z" finished-at="2017-10-11T18:18:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doTest -->
+      </class> <!-- com.netease.demo.NewTest123 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

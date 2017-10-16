@@ -1,0 +1,141 @@
+2017-09-29 16:59:15 [main]-[INFO] Using Chrome
+2017-09-29 16:59:15 [main]-[INFO] Started BrowserEmulator
+2017-09-29 16:59:16 [main]-[INFO] Pause 500 ms
+2017-09-29 16:59:31 [main]-[INFO] Opened url https://static-qa.lifesense.com/eopen/index.html
+2017-09-29 16:59:34 [main]-[INFO] Pause 500 ms
+2017-09-29 16:59:34 [main]-[INFO] Pause 500 ms
+2017-09-29 16:59:35 [main]-[INFO] Pause 500 ms
+2017-09-29 16:59:35 [main]-[INFO] Found element //html/body/div[2]/div/div[2]/input[1]
+2017-09-29 16:59:35 [main]-[INFO] Found desired element //html/body/div[2]/div/div[2]/input[1]
+2017-09-29 16:59:35 [main]-[INFO] Type chengzhao.li@lifesense.com at //html/body/div[2]/div/div[2]/input[1]
+2017-09-29 16:59:36 [main]-[INFO] Pause 500 ms
+2017-09-29 16:59:36 [main]-[INFO] Pause 500 ms
+2017-09-29 16:59:36 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:37 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:37 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:38 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:38 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:39 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:39 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:40 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:40 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:41 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:41 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:42 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:43 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:43 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:44 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:44 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:45 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:45 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:46 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:46 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:47 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:47 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:48 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:48 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:49 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:49 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:50 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:50 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:51 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:51 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:52 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:52 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:53 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:53 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 16:59:54 [main]-[INFO] Not found element/html/body/div[2]/div/div[2]/input[2]
+2017-09-29 17:00:08 [main]-[INFO] Using Chrome
+2017-09-29 17:00:08 [main]-[INFO] Started BrowserEmulator
+2017-09-29 17:00:08 [main]-[INFO] Pause 500 ms
+2017-09-29 17:00:46 [main]-[ERROR] Failed to open url https://static-qa.lifesense.com/eopen/index.html >> capture screenshot at screenshot/20170929-170045.png
+2017-09-29 17:05:18 [main]-[INFO] Using Chrome
+2017-09-29 17:05:18 [main]-[INFO] Started BrowserEmulator
+2017-09-29 17:05:18 [main]-[INFO] Pause 500 ms
+2017-09-29 17:05:34 [main]-[INFO] Opened url https://static-qa.lifesense.com/eopen/index.html
+2017-09-29 17:05:36 [main]-[INFO] Pause 500 ms
+2017-09-29 17:05:37 [main]-[INFO] Pause 500 ms
+2017-09-29 17:05:37 [main]-[INFO] Pause 500 ms
+2017-09-29 17:05:37 [main]-[INFO] Found element //html/body/div[2]/div/div[2]/input[1]
+2017-09-29 17:05:37 [main]-[INFO] Found desired element //html/body/div[2]/div/div[2]/input[1]
+2017-09-29 17:05:38 [main]-[INFO] Type chengzhao.li@lifesense.com at //html/body/div[2]/div/div[2]/input[1]
+2017-09-29 17:05:38 [main]-[INFO] Pause 500 ms
+2017-09-29 17:05:39 [main]-[INFO] Pause 500 ms
+2017-09-29 17:05:39 [main]-[INFO] Found element //html/body/div[2]/div/div[2]/input[2]
+2017-09-29 17:05:39 [main]-[INFO] Found desired element //html/body/div[2]/div/div[2]/input[2]
+2017-09-29 17:05:39 [main]-[INFO] Type 12345678 at //html/body/div[2]/div/div[2]/input[2]
+2017-09-29 17:05:39 [main]-[INFO] Pause 500 ms
+2017-09-29 17:05:40 [main]-[INFO] Pause 500 ms
+2017-09-29 17:05:40 [main]-[INFO] Found element //html/body/div[2]/div/div[2]/div[4]
+2017-09-29 17:05:40 [main]-[INFO] Found desired element //html/body/div[2]/div/div[2]/div[4]
+2017-09-29 17:05:40 [main]-[INFO] Clicked //html/body/div[2]/div/div[2]/div[4]
+2017-09-29 17:05:40 [main]-[INFO] Pause 500 ms
+2017-09-29 17:05:41 [main]-[INFO] Pause 500 ms
+2017-09-29 17:05:41 [main]-[INFO] Pause 500 ms
+2017-09-29 17:05:42 [main]-[INFO] Found element //html/body/div[1]/div/a[3]
+2017-09-29 17:05:42 [main]-[INFO] Found desired element //html/body/div[1]/div/a[3]
+2017-09-29 17:05:43 [main]-[INFO] Clicked //html/body/div[1]/div/a[3]
+2017-09-29 17:05:44 [main]-[INFO] Pause 500 ms
+2017-09-29 17:05:44 [main]-[INFO] Pause 500 ms
+2017-09-29 17:05:45 [main]-[INFO] Pause 500 ms
+2017-09-29 17:12:04 [main]-[INFO] Using Chrome
+2017-09-29 17:12:04 [main]-[INFO] Started BrowserEmulator
+2017-09-29 17:12:05 [main]-[INFO] Pause 500 ms
+2017-09-29 17:12:15 [main]-[INFO] Opened url https://static-qa.lifesense.com/eopen/index.html
+2017-09-29 17:12:17 [main]-[INFO] Pause 500 ms
+2017-09-29 17:12:18 [main]-[INFO] Pause 500 ms
+2017-09-29 17:12:18 [main]-[INFO] Pause 500 ms
+2017-09-29 17:12:18 [main]-[INFO] Found element //html/body/div[2]/div/div[2]/input[1]
+2017-09-29 17:12:18 [main]-[INFO] Found desired element //html/body/div[2]/div/div[2]/input[1]
+2017-09-29 17:12:18 [main]-[INFO] Type chengzhao.li@lifesense.com at //html/body/div[2]/div/div[2]/input[1]
+2017-09-29 17:12:19 [main]-[INFO] Pause 500 ms
+2017-09-29 17:12:19 [main]-[INFO] Pause 500 ms
+2017-09-29 17:12:19 [main]-[INFO] Found element //html/body/div[2]/div/div[2]/input[2]
+2017-09-29 17:12:19 [main]-[INFO] Found desired element //html/body/div[2]/div/div[2]/input[2]
+2017-09-29 17:12:20 [main]-[INFO] Type 12345678 at //html/body/div[2]/div/div[2]/input[2]
+2017-09-29 17:12:20 [main]-[INFO] Pause 500 ms
+2017-09-29 17:12:21 [main]-[INFO] Pause 500 ms
+2017-09-29 17:12:21 [main]-[INFO] Found element //html/body/div[2]/div/div[2]/div[4]
+2017-09-29 17:12:21 [main]-[INFO] Found desired element //html/body/div[2]/div/div[2]/div[4]
+2017-09-29 17:12:21 [main]-[INFO] Clicked //html/body/div[2]/div/div[2]/div[4]
+2017-09-29 17:12:21 [main]-[INFO] Pause 500 ms
+2017-09-29 17:12:22 [main]-[INFO] Pause 500 ms
+2017-09-29 17:12:22 [main]-[INFO] Pause 500 ms
+2017-09-29 17:12:22 [main]-[INFO] Found element //html/body/div[1]/div/a[3]
+2017-09-29 17:12:22 [main]-[INFO] Found desired element //html/body/div[1]/div/a[3]
+2017-09-29 17:12:23 [main]-[INFO] Element //html/body/div[1]/div/a[3] is unclickable, try again
+2017-09-29 17:12:23 [main]-[INFO] Clicked //html/body/div[1]/div/a[3]
+2017-09-29 17:12:24 [main]-[INFO] Pause 500 ms
+2017-09-29 17:12:24 [main]-[INFO] Pause 500 ms
+2017-09-29 17:12:25 [main]-[INFO] Pause 500 ms
+2017-09-29 17:13:39 [main]-[INFO] Using Chrome
+2017-09-29 17:13:39 [main]-[INFO] Started BrowserEmulator
+2017-09-29 17:13:39 [main]-[INFO] Pause 500 ms
+2017-09-29 17:13:52 [main]-[INFO] Opened url https://static-qa.lifesense.com/eopen/index.html
+2017-09-29 17:13:54 [main]-[INFO] Pause 500 ms
+2017-09-29 17:13:55 [main]-[INFO] Pause 500 ms
+2017-09-29 17:13:55 [main]-[INFO] Pause 500 ms
+2017-09-29 17:13:55 [main]-[INFO] Found element //html/body/div[2]/div/div[2]/input[1]
+2017-09-29 17:13:55 [main]-[INFO] Found desired element //html/body/div[2]/div/div[2]/input[1]
+2017-09-29 17:13:56 [main]-[INFO] Type chengzhao.li@lifesense.com at //html/body/div[2]/div/div[2]/input[1]
+2017-09-29 17:13:56 [main]-[INFO] Pause 500 ms
+2017-09-29 17:13:57 [main]-[INFO] Pause 500 ms
+2017-09-29 17:13:57 [main]-[INFO] Found element //html/body/div[2]/div/div[2]/input[2]
+2017-09-29 17:13:57 [main]-[INFO] Found desired element //html/body/div[2]/div/div[2]/input[2]
+2017-09-29 17:13:57 [main]-[INFO] Type 12345678 at //html/body/div[2]/div/div[2]/input[2]
+2017-09-29 17:13:57 [main]-[INFO] Pause 500 ms
+2017-09-29 17:13:58 [main]-[INFO] Pause 500 ms
+2017-09-29 17:13:58 [main]-[INFO] Found element //html/body/div[2]/div/div[2]/div[4]
+2017-09-29 17:13:58 [main]-[INFO] Found desired element //html/body/div[2]/div/div[2]/div[4]
+2017-09-29 17:13:58 [main]-[INFO] Clicked //html/body/div[2]/div/div[2]/div[4]
+2017-09-29 17:13:59 [main]-[INFO] Pause 500 ms
+2017-09-29 17:13:59 [main]-[INFO] Pause 500 ms
+2017-09-29 17:14:00 [main]-[INFO] Pause 500 ms
+2017-09-29 17:14:03 [main]-[INFO] Found element //html/body/div[1]/div/a[3]
+2017-09-29 17:14:03 [main]-[INFO] Found desired element //html/body/div[1]/div/a[3]
+2017-09-29 17:14:04 [main]-[INFO] Element //html/body/div[1]/div/a[3] is unclickable, try again
+2017-09-29 17:14:04 [main]-[INFO] Element //html/body/div[1]/div/a[3] is unclickable, try again
+2017-09-29 17:14:10 [main]-[INFO] Clicked //html/body/div[1]/div/a[3]
+2017-09-29 17:14:10 [main]-[INFO] Pause 500 ms
+2017-09-29 17:14:11 [main]-[INFO] Pause 500 ms
+2017-09-29 17:14:11 [main]-[INFO] Pause 500 ms

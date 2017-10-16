@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="健康管理平台登录退出" parallel="false" verbose="2">
+	<test name="LoginTest">
+		<classes>
+			<class name="com.netease.com.testcase.LoginTest">
+				<methods preserve-order="true">
+					<include name="open_urltest" />
+					<include name="logintest" />
+					<include name="logoutest" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
