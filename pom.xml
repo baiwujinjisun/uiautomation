@@ -131,7 +131,7 @@
 						</properties>
 						<testFailureIgnore>true</testFailureIgnore>
 						<suiteXmlFiles>
-							<suiteXmlFile>src/com/netease/testng/login-logout.xml</suiteXmlFile>
+							<suiteXmlFile>src/com/netease/testng/${EXECASE}</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
