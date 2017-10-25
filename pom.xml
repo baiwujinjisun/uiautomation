@@ -131,7 +131,8 @@
 						</properties>
 						<testFailureIgnore>true</testFailureIgnore>
 						<suiteXmlFiles>
-							<suiteXmlFile>src/com/netease/testng/${EXECASE}</suiteXmlFile>
+							<suiteXmlFile>src/com/netease/testng/${EXECASE1}</suiteXmlFile>
+							<suiteXmlFile>src/com/netease/testng/${EXECASE2}</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
