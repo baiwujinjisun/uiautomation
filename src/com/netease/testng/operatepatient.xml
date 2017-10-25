@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="健管平台创建患者" parallel="false" verbose="2">
+	<test name="LoginTest">
+		<classes>
+			<class name="com.netease.com.testcase.OperatePatientTest">
+				<methods preserve-order="true">
+					<include name="createpatientnormaltest" />
+					<include name="createpatientlessmessagetest" />
+					<include name="editpatientWetest" />
+					<include name="deletepatientWetest" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
