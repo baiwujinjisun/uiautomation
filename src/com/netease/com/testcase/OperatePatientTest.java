@@ -40,6 +40,5 @@ public class OperatePatientTest {
   @Test
   public void deletepatientWetest(){
 	  operatepatient.deletePatient();	  
-	  logout.logout();
   }
 }
