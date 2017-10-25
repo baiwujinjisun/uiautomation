@@ -165,6 +165,7 @@ public class OperatePatientImpl implements IOperatePatient {
 		action.pause(500);
 		assertEquals(action.getTextAction(delectassretXpath), "暂无用户");
 		action.pause(500);
+		action.exit();
 	}
 
 }

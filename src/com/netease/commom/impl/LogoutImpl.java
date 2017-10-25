@@ -39,7 +39,7 @@ public class LogoutImpl implements ILogout {
 		action.pause(500);
 		assertEquals(action.getTextAction(assertxpath), "乐心健康管理平台");
 		action.getImage(screenshotPath, "退出成功");
-		action.exit();
+//		action.exit();
 
 	}
 
