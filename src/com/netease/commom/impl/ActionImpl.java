@@ -4,6 +4,7 @@ import java.awt.AWTException;
 import java.awt.Robot;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.Iterator;
 import java.util.Set;
 
 import org.apache.log4j.Logger;
@@ -356,5 +357,24 @@ public class ActionImpl implements IAction{
 		be.mouseOverOther(xpath0, xpath);
 		be.pause(500);
 		
+	}
+
+	/* (non-Javadoc)
+	 * @see com.netease.common.IAction#switchToWindowAction(java.lang.String, java.lang.String)
+	 */
+	@Override
+	public void switchToWindowAction(String current_handle, Set<String> all_handles) {
+		// 循环判断将当前句柄从所有句柄中移除，剩下的就是你想要的句柄
+		Iterator<String> it = all_handles.iterator();
+		String handle = null;
+
+		while (it.hasNext()) {
+			handle = it.next();
+			System.out.println("所有句柄——+++++++---" + handle);
+			if (current_handle == handle)
+				continue;
+			be.getBrowserCore().switchTo().window(handle);
+		}
+		be.pause(500);
 	}
 }

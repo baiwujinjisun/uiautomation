@@ -1,8 +1,9 @@
 package com.netease.common;
 
+import java.util.Set;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
-
 import com.netease.dagger.BrowserEmulator;
 
 /**
@@ -182,13 +183,6 @@ public interface IAction {
 	void executeScript(String js);
 	
 	/**
-	 * 功能描述: 切换动作<br>
-	 * 〈功能详细描述〉切换到新浏览器窗口
-	 * @param text 入参String类型窗口名称
-	 */
-	void switchToWindowAction(String text);
-	
-	/**
 	 * 功能描述: 切换并关闭动作<br>
 	 * 〈功能详细描述〉切换到新浏览器窗口, 并关闭原窗口
 	 * @param text 入参String类型窗口名称
@@ -285,4 +279,10 @@ public interface IAction {
 	 * 〈功能详细描述> 就是鼠标移动到页面中某按钮或菜单，自动弹出二级菜单或下拉菜单，再自动点击其中的二级菜单或下拉列表
 	 */
 	void mouseOverOtherAciton(String xpath0,String xpath);
+
+	/**
+	 * 〈一句话功能简述〉动作关键字驱动接口<br>
+	 * 〈功能详细描述> 封装常用的selenium动作元素
+	 */
+	void switchToWindowAction(String current_handle, Set<String> all_handles);
 }
