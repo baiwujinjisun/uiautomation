@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14190" started-at="2017-10-11T10:18:43Z" finished-at="2017-10-11T10:18:57Z">
+  <suite name="健管平台创建患者" duration-ms="81820" started-at="2017-11-10T10:01:24Z" finished-at="2017-11-10T10:02:46Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="14190" started-at="2017-10-11T10:18:43Z" finished-at="2017-10-11T10:18:57Z">
-      <class name="com.netease.demo.NewTest123">
-        <test-method status="PASS" signature="doTest()[pri:0, instance:com.netease.demo.NewTest123@343f4d3d]" name="doTest" duration-ms="14172" started-at="2017-10-11T18:18:43Z" finished-at="2017-10-11T18:18:57Z">
+    <test name="LoginTest" duration-ms="81820" started-at="2017-11-10T10:01:24Z" finished-at="2017-11-10T10:02:46Z">
+      <class name="com.netease.com.testcase.OperatePatientTest">
+        <test-method status="PASS" signature="createpatientnormaltest()[pri:0, instance:com.netease.com.testcase.OperatePatientTest@c03cf28]" name="createpatientnormaltest" duration-ms="39167" started-at="2017-11-10T18:01:24Z" finished-at="2017-11-10T18:02:03Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- doTest -->
-      </class> <!-- com.netease.demo.NewTest123 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- createpatientnormaltest -->
+        <test-method status="PASS" signature="createpatientlessmessagetest()[pri:0, instance:com.netease.com.testcase.OperatePatientTest@c03cf28]" name="createpatientlessmessagetest" duration-ms="6462" started-at="2017-11-10T18:02:03Z" finished-at="2017-11-10T18:02:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createpatientlessmessagetest -->
+        <test-method status="PASS" signature="editpatientWetest()[pri:0, instance:com.netease.com.testcase.OperatePatientTest@c03cf28]" name="editpatientWetest" duration-ms="17454" started-at="2017-11-10T18:02:10Z" finished-at="2017-11-10T18:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editpatientWetest -->
+        <test-method status="PASS" signature="deletepatientWetest()[pri:0, instance:com.netease.com.testcase.OperatePatientTest@c03cf28]" name="deletepatientWetest" duration-ms="18701" started-at="2017-11-10T18:02:27Z" finished-at="2017-11-10T18:02:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletepatientWetest -->
+      </class> <!-- com.netease.com.testcase.OperatePatientTest -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- 健管平台创建患者 -->
 </testng-results>

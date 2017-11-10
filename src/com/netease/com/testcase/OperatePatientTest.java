@@ -16,7 +16,6 @@ public class OperatePatientTest {
   private static IOperatePatient operatepatient= new OperatePatientImpl();
   private static ILogin login = new LoginImpl();
   private static IOpenUrl openurl=new OpenUrlImpl();
-  private static ILogout logout = new LogoutImpl();
   
   
   
