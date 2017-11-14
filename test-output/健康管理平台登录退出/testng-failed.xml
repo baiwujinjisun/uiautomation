@@ -5,7 +5,7 @@
     <classes>
       <class name="com.netease.com.testcase.LoginTest">
         <methods>
-          <include name="logoutest"/>
+          <include name="logintest"/>
         </methods>
       </class> <!-- com.netease.com.testcase.LoginTest -->
     </classes>
